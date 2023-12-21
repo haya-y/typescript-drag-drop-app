@@ -1,1 +1,0 @@
-# typescript-drag-drop-app
